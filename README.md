@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @brwn-ri
-- 👀 I’m interested in C++, QT, Electronics and more... 
+- 👀 I’m interested in C++ and qt
 - 🌱 I’m currently learning Advanced C++
 - 💞️ I’m looking to collaborate on any C++ Projects
-- 📫 How to reach me on 
+- 📫 How to reach me on favourdimora43@gmail.com
 
 <!---
 brwn-ri/brwn-ri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
