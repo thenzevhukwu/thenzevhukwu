@@ -1,10 +1,8 @@
-<h1>Hi, I’m Favour Arinze Adimora<h1/>
-<h2>
-  - 👀 I’m interested in C++ and qt
-- 🌱 I’m currently learning Advanced C++
-- 💞️ I’m looking to collaborate on any C++ Projects
-- 📫 How to reach me on favourdimora43@gmail.com
-</h2>
+<h1>Hi, I’m Favour Arinze Adimora</h1>
+<p>I’m interested in C++ and qt</h2>
+<p>🌱 I’m currently learning Advanced C++</p>
+<p>💞️ I’m looking to collaborate on any C++ Projects</p>
+<p>📫 How to reach me on favourdimora43@gmail.com</p>
 
 
 <!---
