@@ -1,8 +1,6 @@
-<h1 align="center" >Hi!  I am Favour Arinze, Adimora </h1>
+<h1>Hi!  I am Favour Arinze, Adimora </h1>
 
-I'm a Mechatronics Engineer
-------------------
-
+*  I'm a Mechatronics Engineer
 *  I'm based in Enugu State
 *  See my portfolio at [https://nzevhukwu.vercel.app](https://nzevhukwu.vercel.app)
 *  You can contact me at (favourdimora43@gmail.com)
