@@ -2,7 +2,7 @@
 
 *  I'm a Mechatronics Engineer
 *  I'm based in Enugu State
-*  See my portfolio at [https://nzevhukwu.vercel.app](https://nzevhukwu.vercel.app)
+*  See my portfolio at [https://thenzevhukwu.vercel.app](https://nzevhukwu.vercel.app)
 *  You can contact me at (favourdimora43@gmail.com)
 *  I'm currently learning HTML and CSS with Bootstrap
 
