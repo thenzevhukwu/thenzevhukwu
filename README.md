@@ -1,10 +1,10 @@
 <h1>Hi!  I am Favour Arinze, Adimora </h1>
 
-*  I'm a Mechatronics Engineer
-*  I'm based in Enugu State
+*  I'm a Mechatronics and Systems Engineer
+*  I'm based in Enugu State, Nigeria
 *  See my portfolio at [https://thenzevhukwu.vercel.app](https://nzevhukwu.vercel.app)
 *  You can contact me at (favourdimora43@gmail.com)
-*  I'm currently learning HTML and CSS with Bootstrap
+*  I'm currently learning Robotics and Control Systems
 
 ### Skills
 
